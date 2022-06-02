@@ -4,5 +4,5 @@ Vamos falar de Java de forma simples e compartilhar conhecimentos que  podem fac
 <img src="https://i.ibb.co/16nvgsJ/2014-11-14-java-logo.webp" alt="2014-11-14-java-logo" border="0">
 Vamos iniciar pelo mais simples, entender a sintaxe e seus recursos, em um segundo momento vamos explorar a orientação ao objeto e por último o uso de framework. Caso você esteja seguindo esse repositório e queira conversar sobre o mesmo deixo meu e-mail para possível contato: ti.jacque@gmail.com também estou no Linkedin: <a href="https://www.linkedin.com/in/jacque-hernandes/" target="_blank">  https://www.linkedin.com/in/jacque-hernandes/ </a> 
 
-1. Primeiros passos
+1. Primeiros passos <br>
 1.1 - criando um projeto
